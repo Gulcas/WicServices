@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WicServices</string>
+    <string name="button_response">Już czas!</string>
+    <string name="button_text">Jakiś tam teks na guziku button_text</string>
+</resources>
